@@ -1,0 +1,60 @@
+c:\users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\bin\Debug\MyKinect.exe.config
+c:\users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\bin\Debug\MyKinect.exe
+c:\users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\bin\Debug\MyKinect.pdb
+c:\users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\bin\Debug\Microsoft.Kinect.dll
+c:\users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\bin\Debug\Microsoft.Kinect.xml
+c:\users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\obj\Debug\MyKinect.csprojResolveAssemblyReference.cache
+c:\users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\obj\Debug\MyKinect.Form1.resources
+c:\users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\obj\Debug\MyKinect.Properties.Resources.resources
+c:\users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\obj\Debug\MyKinect.csproj.GenerateResource.Cache
+c:\users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\obj\Debug\MyKinect.exe
+c:\users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\obj\Debug\MyKinect.pdb
+C:\Users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\bin\Debug\MyKinect.exe.manifest
+C:\Users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\bin\Debug\MyKinect.application
+C:\Users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\obj\Debug\MyKinect.exe.manifest
+C:\Users\elliot\documents\visual studio 2017\Projects\MyKinect\MyKinect\obj\Debug\MyKinect.application
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\bin\Debug\MyKinect.exe.config
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\bin\Debug\MyKinect.exe.manifest
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\bin\Debug\MyKinect.application
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\bin\Debug\MyKinect.exe
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\bin\Debug\MyKinect.pdb
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.csprojResolveAssemblyReference.cache
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.Form1.resources
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.Properties.Resources.resources
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.csproj.GenerateResource.Cache
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.exe.manifest
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.application
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.exe
+C:\Users\elliot\Documents\Visual Studio 2017\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.pdb
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\bin\Debug\MyKinect.exe.config
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\bin\Debug\MyKinect.exe.manifest
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\bin\Debug\MyKinect.application
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\bin\Debug\MyKinect.exe
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\bin\Debug\MyKinect.pdb
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.csprojResolveAssemblyReference.cache
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.Form1.resources
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.Properties.Resources.resources
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.csproj.GenerateResource.Cache
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.exe.manifest
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.application
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.exe
+C:\Users\elliot\Documents\Visual Studio 2015\Projects\MyKinect3\MyKinect\obj\Debug\MyKinect.pdb
+F:\4\MyKinect3\MyKinect\bin\Debug\MyKinect.exe.config
+F:\4\MyKinect3\MyKinect\obj\Debug\MyKinect.exe
+F:\4\MyKinect3\MyKinect\obj\Debug\MyKinect.pdb
+F:\4\MyKinect3\MyKinect\bin\Debug\MyKinect.exe.manifest
+F:\4\MyKinect3\MyKinect\bin\Debug\MyKinect.application
+F:\4\MyKinect3\MyKinect\bin\Debug\MyKinect.exe
+F:\4\MyKinect3\MyKinect\bin\Debug\MyKinect.pdb
+F:\4\MyKinect3\MyKinect\bin\Debug\Microsoft.Kinect.dll
+F:\4\MyKinect3\MyKinect\bin\Debug\Microsoft.Kinect.xml
+F:\4\MyKinect3\MyKinect\obj\Debug\MyKinect.csprojResolveAssemblyReference.cache
+F:\4\MyKinect3\MyKinect\obj\Debug\MyKinect.Form1.resources
+F:\4\MyKinect3\MyKinect\obj\Debug\MyKinect.Properties.Resources.resources
+F:\4\MyKinect3\MyKinect\obj\Debug\MyKinect.csproj.GenerateResource.Cache
+F:\4\MyKinect3\MyKinect\obj\Debug\MyKinect.exe.manifest
+F:\4\MyKinect3\MyKinect\obj\Debug\MyKinect.application
